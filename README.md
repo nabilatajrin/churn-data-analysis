@@ -11,13 +11,13 @@ This project performs Linear Regression, predict the 'Price' from the test set, 
 Model, year, price, transmission, mileage, fuelType, mpg, and engineSize.
 
 ### Tasks
-(A) Load the data, 
-(B) Perform Label Encoding or One-hot Encoding (Explain which one is best suitable for your analysis)
-(C) Split the original dataset into the train set (80%) and the test set (20%), 
-(D) Perform Linear Regression and Predict the 'Price' from the test set, 
-(E) Show the coefficients of your linear regression model for each feature and show the y-intercept value of your linear regression model. (Interpret the coefficients)
-(F) Find the MAE, MAPE, MSE, RMSE, coefficient of determination values from the actual target variable and the predicted target variable.
-(G) Compare the actual and predicted target variable through visualization
+(A) Load the data, <br>
+(B) Perform Label Encoding or One-hot Encoding (Explain which one is best suitable for your analysis) <br>
+(C) Split the original dataset into the train set (80%) and the test set (20%), <br>
+(D) Perform Linear Regression and Predict the 'Price' from the test set, <br>
+(E) Show the coefficients of your linear regression model for each feature and show the y-intercept value of your linear regression model. (Interpret the coefficients) <br>
+(F) Find the MAE, MAPE, MSE, RMSE, coefficient of determination values from the actual target variable and the predicted target variable. <br>
+(G) Compare the actual and predicted target variable through visualization <br>
 
 #### References
 Dataset source: https://www.kaggle.com/aishwaryamuthukumar/cars-dataset-audi-bmw-ford-hyundai-skoda-vw
