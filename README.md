@@ -1,4 +1,4 @@
-# Ford used car analysis
+# churn_data_analysis
 #### Submitted by:<br>
 Nabila Tajrin Bristy<br>
 IIT, University of Dhaka<br>
