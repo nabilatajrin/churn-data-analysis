@@ -5,10 +5,11 @@ IIT, University of Dhaka<br>
 Dhaka, Bangladesh
 
 ### Objective
-This project performs Linear Regression, predict the 'Price' from the test set, and find the RMSE value from the actual test data and the predicted data of used Ford cars.
-
-### Variables
-Model, year, price, transmission, mileage, fuelType, mpg, and engineSize.
+- Decision Tree Classification
+- Cross-Validation
+- Grid Search
+- Confusion Matrix, Classification report, and ROC-AUC
+- Accuracy, precision, recall, f1 score
 
 ### Tasks
 1. Load the dataset and perform data preprocessing <br>
