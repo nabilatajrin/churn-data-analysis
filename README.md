@@ -21,4 +21,5 @@ Dhaka, Bangladesh
 7. Explain accuracy, precision, recall, f1 score <br>
 
 #### References
-Dataset source: https://www.kaggle.com/aishwaryamuthukumar/cars-dataset-audi-bmw-ford-hyundai-skoda-vw
+dataset: https://github.com/SKawsar/machine_learning_with_python/blob/main/Churn.csv <br>
+Actual dataset source: https://learn.datacamp.com/courses/marketing-analytics-predicting-customer-churn-in-python
